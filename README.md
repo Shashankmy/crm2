@@ -79,11 +79,12 @@ npm run dev
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/weather-forecast-app)
 
-## Screenshots
+## Issue 
 
-![Home Page](/screenshots/home-page.png)
-![Weather Details](/screenshots/weather-details.png)
-![Dark Mode](/screenshots/dark-mode.png)
+- The Postgres database in render is having few issues right now so the leads may not be visible. If so this is how the leads section appears for clarification:
+
+![image](https://github.com/user-attachments/assets/687ca3b6-7dea-43d7-8dab-c4d710894bad)
+
 
 ## Credits
 
